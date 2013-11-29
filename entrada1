@@ -1,5 +1,5 @@
-LINHA: 1 3. 
-COLUNA: 1 3.
-RAINHA: 1 2.
+X: 1 5.
+Y: 1 5.
 
-diagonalprincipal(RAINHA) -linha(RAINHA,LINHA) -coluna(RAINHA,COLUNA). LINHA = COLUNA.
+foo(X).
+bar(Y) -foo(X). X < Y.
