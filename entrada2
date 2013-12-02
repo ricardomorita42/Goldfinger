@@ -1,0 +1,4 @@
+LINHA: 1 3.
+COLUNA: 1 3.
+RAINHA: 1 2.
+diagonalprincipal(RAINHA) -linha(RAINHA,LINHA) -coluna(RAINHA,COLUNA). LINHA = COLUNA.
